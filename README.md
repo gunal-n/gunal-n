@@ -1,12 +1,5 @@
 <h2 align="left">Hi 👋! My name is Gunal N and I'm a B.Tech Student, from India</h2>
 
-###
-
-
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
