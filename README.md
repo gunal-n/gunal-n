@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img align="left" height="" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif"  />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
