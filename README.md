@@ -31,3 +31,9 @@
 
 <!-- Snake animation -->
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Najas06/count.svg?"  />
+</div>
