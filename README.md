@@ -34,5 +34,5 @@
 
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Najas06/count.svg"  />
+  <img src="https://portfolio-sable-psi-97.vercel.app/"  />
 </div>
