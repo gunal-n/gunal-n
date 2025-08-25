@@ -34,5 +34,8 @@
 
 
 <div align="center">
-  <img src="https://portfolio-sable-psi-97.vercel.app/"  />
+  <a href="https://portfolio-sable-psi-97.vercel.app/" target="_blank">
+    🌐 Visit My Portfolio
+  </a>
 </div>
+
